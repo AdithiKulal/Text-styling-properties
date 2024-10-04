@@ -1,0 +1,14 @@
+body {
+    background-color: aqua;
+}
+
+.text1{
+    color:hotpink;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.p1{
+    color: hotpink;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
